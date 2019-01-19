@@ -1,0 +1,32 @@
+@import url(font-awesome.min.css);
+/*@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico");*/
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,700|Pacifico|Great+Vibes|Dancing+Script|Rouge+Script");
+
+div.menu {
+    border: 1px solid blue;
+    background-color: silver;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+body {
+    width: 90%;
+    position: relative;
+    left: 40px;
+    top: 10px;
+}
+
+    /*http://stackoverflow.com/questions/21992498/disable-mouse-scroll-wheel-zoom-on-embedded-google-maps*/
+    .myoverlay {
+   background:transparent; 
+   position:relative; 
+   width:1100;
+   height:480px; /* your iframe height */
+   top:480px;  /* your iframe height */
+   margin-top:-480px;  /* your iframe height */
+    }
+
+
+
+    .
